@@ -1,0 +1,153 @@
+/* body{
+    background-color: brown;
+} */
+.a{
+	background:#0984e3 ;
+	color: rgb(180, 14, 111);
+}
+.a:hover{
+	background: #34e7e4;
+	color: white;
+	cursor: pointer;
+	text-align: center;
+}
+.b{
+	background: #fbc531;
+	color:black;
+}
+.b:hover{
+	background:  darkmagenta ;
+	color:white;
+	cursor: pointer;
+	text-align: center;
+}
+.c{
+	background-color: chartreuse;
+	color:rgb(20 67 236);
+}
+.c:hover{
+	background-color: crimson;
+	color:white;
+	cursor: pointer;
+	text-align: center;
+}
+.d{
+	background-color: darkmagenta;
+	color: darkorange;
+}
+.d:hover{
+	background-color: rgb(30, 226, 226);
+	color: darkorange;
+	cursor: pointer;
+	text-align: center;
+}
+.e{
+	background-color: blue;
+	color:#fbc531;
+}
+.e:hover{
+	background-color: #FC427B;
+	color:white;
+	cursor: pointer;
+	text-align: center;
+
+}
+.f{
+	background-color: gold;
+	color:rgb(51 0 255);
+}
+.f:hover{
+	background-color: #58B19F;
+	color:white;
+	cursor: pointer;
+	text-align: center;
+
+}
+.g{
+	background-color: indigo;
+	color: lawngreen;
+}
+.g:hover{
+	background-color: #F8EFBA;
+	color:blue;
+	cursor: pointer;
+	text-align: center;
+
+}
+.h{
+	background-color: teal;
+	color: white;
+}
+.h:hover{
+	background-color:#F79F1F;
+	color: white;
+	cursor: pointer;
+	text-align: center;
+
+}
+.i{
+	background-color:#e36909;
+	color: rgb(58, 7, 124);
+}
+.i:hover{
+	background-color:#D980FA;
+	color:black;
+	cursor: pointer;
+	text-align: center;
+
+}
+.j{
+	background-color: pink;
+	color: red;
+}
+.j:hover{
+	background-color: #32ff7e;
+	color:blue;
+	cursor: pointer;
+	text-align: center;
+
+}
+.k{
+	background-color: salmon;
+	color: seashell;
+}
+.k:hover{
+	background-color:#4b4b4b;
+	color:white;
+	cursor: pointer;
+	text-align: center;
+
+}
+.l{
+	background-color:rgb(30, 226, 226);
+	color:rgb(24, 10, 10);
+}
+.l:hover{
+	background-color:#ffaf40;
+	color:rgb(24, 10, 10);
+	cursor: pointer;
+	text-align: center;
+
+}
+.m{
+	background-color: crimson;
+	color:yellow;
+}
+.m:hover{
+	background-color:green;
+	color:white;
+	cursor: pointer;
+	text-align: center;
+
+}
+.n{
+	background-color: darkmagenta;
+	color:white;
+}
+.n:hover{
+	background-color:gold;
+	color:black;
+	cursor: pointer;
+	text-align: center;
+}
+
